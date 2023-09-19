@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "title": "welcome blog1",
+      "body": "        \n       The script element allows authors to include dynamic script and data blocks in their documents. The element does not represent content for the user. ",
+      "likes": 0,
+      "id": 1
+    },
+    {
+      "title": "suvadip blog",
+      "body": "        hello suvadip\n        ",
+      "likes": 0,
+      "id": 2
+    },
+    {
+      "title": "sandeep's blog",
+      "body": "        welcome to sandy's blog\n\n        ",
+      "likes": 0,
+      "id": 3
+    },
+    {
+      "title": "cricket dunia",
+      "body": "        cricket is one of my favourite game\n        ",
+      "likes": 0,
+      "id": 4
+    }
+  ],
+  "Query": [
+    {
+      "id": 1,
+      "question": "What is the best way to learn?",
+      "ans": "Self study"
+    }
+  ]
+}
